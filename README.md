@@ -3,7 +3,7 @@ Project made during 2nd year of preparatory class as part of my education
 
 ## Purpose of the project
 
-During my second year of preparatory class at ISEP, Paris, we still had to achieve a project which put in practise our mathematical and/or physical skills. This time, I teamed up with a friend which is fond of music and piano. This project was this idea and we developped it during one year.
+During my second year of preparatory class at ISEP, Paris, we still had to achieve a project which put in practise our mathematical and/or physical skills. This time, I teamed up with a friend which is fond of music and piano. This project was his idea and we developped it during one year.
 
 ## Specifications
 
@@ -16,6 +16,6 @@ The project is composed of a graphical interface, generated with QtUI, as we did
 
 This repo contains all the documents I had to give in at the end of the project :
 
-The code (of course) needed to run the algorithm
-The report that explains all my approach and research to create the algorithm.
-The .pptx used during the presentation
+- The code (of course) needed to run the algorithm
+- The report that explains all our approach and research to create the algorithm.
+- The .pptx used during the presentation
